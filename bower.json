@@ -1,0 +1,21 @@
+{
+  "name": "turbo-fx",
+  "version": "0.1.0",
+  "description": "CoffeeScript / Boostrap RAD SPA Framework",
+  "main": "turbo-fx.coffee",
+  "keywords": [
+    "CoffeeScript",
+    "Boostrap",
+    "RAD",
+    "SPA",
+    "Framework"
+  ],
+  "authors": [
+    "Dave Jackson <dave.jackson@anywarefx.com>"
+  ],
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
