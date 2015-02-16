@@ -2,7 +2,7 @@ module.exports = {
     entry: './src/turbo-fx.coffee',
     output: {
         path: __dirname + '/dist',
-        filename: 'bundle.js'
+        filename: 'turbo-fx.js'
     },
     module: {
         loaders: [
